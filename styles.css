@@ -1,0 +1,20 @@
+.test {
+  color: blue;
+}
+
+button {
+  width: 6em;
+  heigh: 3em;
+}
+
+.row {
+    margin-bottom: 4em;
+}
+
+.box {
+  height: 5em;
+  width: 5em;
+  border: .2em black solid;
+  display: inline-block;
+  margin-left: 2em;
+}
